@@ -1,0 +1,25 @@
+# Environments
+agvenv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables
+.env
+.env.local
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
